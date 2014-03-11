@@ -6,6 +6,11 @@
 # Packages
 *.egg
 *.egg-info
+*.csv
+*.npy
+*.cp
+
+playground
 dist
 build
 eggs
